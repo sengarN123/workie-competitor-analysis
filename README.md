@@ -50,3 +50,17 @@ For Workie, source-specific figures were retained where different official Worki
 ## Objective
 
 The objective of this project is to organize publicly available competitor information into a structured dataset and present it through Power BI to support business comparison and reporting.
+## Dashboard Preview
+
+### Workie Dashboard Overview
+
+![Workie Dashboard Overview](workie-dashboard-overview.png)
+
+### Competitor Analysis
+
+![Competitor Analysis](workie-competitor-analysis.png)
+
+### City Analysis
+
+![City Analysis](workie-city-analysis.png)
+
